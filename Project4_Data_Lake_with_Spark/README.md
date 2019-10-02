@@ -28,7 +28,7 @@ Using the song and event datasets, I created a star schema optimized for queries
     - *songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent*
 
 
-**Dimension Tables**
+**Dimension Tables** </br>
 2. **users** - users in the app
     - *user_id, first_name, last_name, gender, level* </br>
 3. **songs** - songs in music database
